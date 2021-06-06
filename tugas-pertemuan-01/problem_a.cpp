@@ -1,4 +1,5 @@
 #include "problem_a.hpp"
+#include <iostream.h>
 
 bool is_prime(int n)
 {
