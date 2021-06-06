@@ -1,5 +1,4 @@
-> **TODO: UBAH "NAMA" DAN "NPM" MENJADI NAMA DAN NPM KALIAN PADA KEMUDIAN HAPUS BARIS INI!**
-# Tugas Praktikum Struktur Data 02
+ # Tugas Praktikum Struktur Data 02
 
 > Materi: Pointer pada C++  
 > Pengajar: Asisten Praktikum 2021
