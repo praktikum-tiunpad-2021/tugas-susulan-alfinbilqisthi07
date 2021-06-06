@@ -3,7 +3,7 @@
 
 > Materi: Pointer pada C++  
 > Pengajar: Asisten Praktikum 2021
-## NAMA - NPM
+## ALFIN BILQISTHI - 140810160052
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
