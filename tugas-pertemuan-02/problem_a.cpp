@@ -1,5 +1,5 @@
 #include "problem_a.hpp"
-#include <iostream.h>
+#include <iostream>
 
 int *multiply_by_two(int &n)
 {
